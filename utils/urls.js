@@ -1,6 +1,6 @@
 export const API_URL= process.env.NEXT_PUBLIC_API_URL || 'http://localhost:1337'
 
-export const MAGIC_PUBLIC_KEY =  process.env.NEXT_PUBLIC_MAGIC_PUBLIC_KEY || 'sk_test_B3724E1C4C632F31'
+export const MAGIC_PUBLIC_KEY =  process.env.NEXT_PUBLIC_MAGIC_PUBLIC_KEY || 'sk_live_FE4E034B290E07C1'
 
 export const STRIPE_PK = process.env.NEXT_PUBLIC_STRIPE_PK || 'pk_test_51Ip8zKAre1bg2FsZdrZAQlpw5QRHMPuPkPvtn8s4H7cPwDOEjvtDHVlTQdaXSfmDThF2T2fO4P5blJ9BI1MlC2Z400lKcaWshC'
 
